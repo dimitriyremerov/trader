@@ -1,0 +1,14 @@
+{
+    "name": "coinmoney/trader",
+    "description": "Playground for BTC trading scripts",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Dimitriy Remerov",
+            "email": "dimitriy@remerov.ru"
+        }
+    ]
+}
